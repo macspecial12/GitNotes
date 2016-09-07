@@ -1,7 +1,7 @@
 NOTE: use GitBash cmd line tool to put these tips to use
 - sometimes it may need to be run as Administrator (right click)
 
-Case 2. LOCAL repository exists and has been working [ie staging and commits locally] for some time]
+Case 2. LOCAL repository exists and has been working [ie staging and commits locally] for some time
     - Create remote, empty repository on GitHub named <projectname>
     - Go to a local repository named <project_name> that has already been initialized
     - Create a link to the remote repo [logicalName/branchName]
