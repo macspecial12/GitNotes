@@ -1,0 +1,47 @@
+GIT CLI References
+
+https://help.github.com/articles/good-resources-for-learning-git-and-github/
+The Official Git Site
+    The Git homepage offers a search through all Git commands and Git binary downloads for all supported platforms.
+GitHub Guides
+    GitHub Guides is a site from GitHub that focuses on workflows and higher-level Git and GitHub concepts.
+Git Cheat Sheets
+    We have Git cheat sheets in several different languages, available on our training site.
+Online Git Tutorials
+    Git Immersion provides a full length Git tutorial.
+    Git - The Simple Guide is a single-page site that gently walks through the basics of Git.
+Video Tutorials
+    Video based walkthroughs of Git commands and GitHub.com features are available on the YouTube GitHubGuides Channel.
+Git Reference
+    Git Reference is another official Git resource, providing quick instructions for using common commands.
+ProGit
+    For students seeking deeper Git knowledge, ProGit is a thorough open source book from Scott Chacon. It can be viewed online or downloaded in ePub, Mobi, or PDF formats.
+Git Workflows
+    The workflow used at GitHub is described by Scott Chacon and the specifics of using Pull Requests is further detailed on the GitHub blog.
+Try Git
+    This browser-based interactive Git tutorial has 25 challenges and has been enjoyed by hundreds of thousands new Git users. Try Git today!
+Git Real
+    This interactive online Git course by Code School has seven levels with dozens of individual exercises in a fun game format.
+Training Events
+    GitHub sponsors a monthly free one-hour introductory-level class via a live webinar. We also offer regular webinars on some of the most requested topics from our users.
+    GitHub's Web-based Educational Programs
+
+https://help.github.com/categories/bootcamp/
+
+BOOK http://git-scm.com/book/en/v2
+
+GIT Reference 
+http://gitref.org/index.html
+
+Immersion (is very good)
+http://gitimmersion.com/lab_39.html
+
+
+===============================================================================
+
+https://guides.github.com/
+https://training.github.com
+
+Learn how to create a git repository from scratch
+http://gitimmersion.com/lab_03.html
+http://gitref.org/creating/

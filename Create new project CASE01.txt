@@ -19,7 +19,8 @@ Case 1. Remote, empty repository has been created on GitHub named <projectname>
     git status                      # nothing to commit menas dir shows what is already in LOCAL repo
     git commit --amend -m "commit initial README"   # if needed, correct the commit message before pushing to remote
 
-    # FOR SOME REASON NOT NEEDED, init might have created it? 
+    # FOR SOME REASON NOT NEEDED, init might have created it?
+    # https://help.github.com/articles/adding-a-remote/
     # git remote add origin https://github.com/<username/<projectname>.git  # create a remote link
 
     # CONCEPT: there is no way to list a REMOTE repository

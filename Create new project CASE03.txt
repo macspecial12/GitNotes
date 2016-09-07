@@ -1,0 +1,21 @@
+NOTE: use GitBash cmd line tool to put these tips to use
+- sometimes it may need to be run as Administrator (right click)
+
+Case 3. Pull an entire existing project from a REMOTE repo
+    - Go to root project folder
+    - Issue clone command to pull down REMOTE repo
+
+    # launch GitBash
+    cd ~/github_<username>/<projectname>    # change dir to the existing project
+    git clone <url>
+    
+    # creates dir
+    # inits dir
+    # copies down files
+    
+    git branch -r
+    # This becomes the defualt context (in this project directory) for fetch [pull] or push
+    # Logical name: origin
+    # Associated branch: master
+    
+    git remote -v                           # shows urls used for fetch, push; now you are tracking a LOCAL repo to a REMOTE repo

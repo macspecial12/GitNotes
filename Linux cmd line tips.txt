@@ -1,0 +1,15 @@
+LINUX cmd line TIPS
+
+clear
+ls -la
+
+which git           # /mingw64/bin/git
+git --version       # git version 2.9.3.windows.2
+
+touch <filename>
+
+VIM
+<esc> : set number  # show line numbers
+
+- to read a text file in git bash: use cat command
+- to exit editing a version note, press <exc> key then :wq  (for write quit)
